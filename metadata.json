@@ -2,13 +2,13 @@
   "name": "Tobrut",
   "symbol": "TBR",
   "description": "Tobrut Token di jaringan Solana.",
-  "image": "https://raw.githubusercontent.com/Adeirfan511/tobrut-token/TBR-Token.png",
+  "image": "https://raw.githubusercontent.com/Adeirfan511/tobrut-token/main/TBR-Token.png",
   "seller_fee_basis_points": 0,
   "properties": {
     "category": "token",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Adeirfan511/tobrut-token/TBR-Token.png",
+        "uri": "https://raw.githubusercontent.com/Adeirfan511/tobrut-token/main/TBR-Token.png",
         "type": "image/png"
       }
     ]
